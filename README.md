@@ -1,141 +1,39 @@
-# 👩🏻‍💻 Arthur Frantz
+# Olá! Eu sou Arthur Frantz 👋
 
-**`Desenvolvedor FullStack`**
+**`Tester Júnior | QA`** | Engenharia de Software | Desenvolvimento Full Stack
 
-### 🤖 Linguagens e Tecnologias !
+🎯 Sou apaixonado por **qualidade de software**: planejo, escrevo e executo testes
+manuais e automatizados, garantindo que cada release chegue sem regressões.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+## 🧪 Testes & Qualidade
 
-### 📊 Estatísticas
+- **Automação E2E:** Cypress (login, carrinho de compras, mocks com intercept e fixtures)
+- **Automação Web:** Selenium WebDriver + JUnit (Java)
+- **CI/CD:** GitHub Actions rodando os testes E2E no pipeline
+- **Fundamentos:** casos de teste, cenários, teste funcional, regressivo e de API
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurSkl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 💻 Stack que uso
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSkl&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+| Área | Tecnologias |
+|---|---|
+| Front-end | HTML, CSS, JavaScript, React, Bootstrap |
+| Back-end | Node.js (Express), PHP |
+| Banco de dados | PostgreSQL, MySQL, MongoDB |
+| Testes | Cypress, Selenium, JUnit |
+| Ferramentas | Git, GitHub Actions |
 
-</p>
+## 📌 Principais projetos
+
+| Projeto | Destaque |
+|---|---|
+| [helpdesk-pro](https://github.com/ArthurSkl/helpdesk-pro) | Full stack (React + Node + PostgreSQL) com **testes E2E em Cypress** e CI |
+| [testes-e2e-cypress](https://github.com/ArthurSkl/testes-e2e-cypress) | Suite de testes E2E: login e carrinho de compras |
+| [gastronomy-api](https://github.com/ArthurSkl/gastronomy-api) | API REST Node.js + MongoDB com **autenticação JWT** |
+
+## 📫 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arthurfrantz/)
+- 🌐 [Portfólio](https://portfolio-devfrantz.vercel.app)
+- ✉️ arthursklt@hotmail.com
