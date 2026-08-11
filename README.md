@@ -35,5 +35,5 @@ manuais e automatizados, garantindo que cada release chegue sem regressões.
 ## 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthurfrantz/)
-- 🌐 [Portfólio](https://portfolio-devfrantz.vercel.app)
+- 🌐 [Portfólio](https://portifolio-next-flax.vercel.app/)
 - ✉️ arthursklt@hotmail.com
